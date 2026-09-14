@@ -14,7 +14,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ms_err.aternos.me:40991",
+    "ip": "boxfish.aternos.host:40991",
     "port": 40991,
     "version": "1.21.1"
   },
